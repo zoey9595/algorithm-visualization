@@ -2,8 +2,25 @@
 
 > You can access it [here](https://zoey-sorting-algos-visualizer.herokuapp.com/).
 
-This is a simple algorithm visualizer project inspired by [clementmihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g). The main idea is to practice JavaScript skills and review some popular sorting algorithms. It includes bubble sort, quick sort, insertion sort, and merge sort. And you could change the array size and display speed using the top right slider.
+This is a simple algorithm visualizer project inspired by [clementmihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g). The main idea is to practice JavaScript skills and review some popular sorting algorithms. 
 
+### Bubble Sort
+
+![bubble](bubble.gif)
+
+### Insertion Sort
+
+![insertion](insertion.gif)
+
+### Quick Sort
+
+![quick](quick.gif)
+
+### Merge sort.
+
+![merge](merge.gif)
+
+And you could change the array size and display speed using the top right slider.
 
 ## How to play with it on your local computer?
 

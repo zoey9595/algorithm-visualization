@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.io/algorithm-visualization/static/css/main.3cd44b29.chunk.css",
-    "main.js": "/github.io/algorithm-visualization/static/js/main.058cfd99.chunk.js",
-    "main.js.map": "/github.io/algorithm-visualization/static/js/main.058cfd99.chunk.js.map",
-    "runtime-main.js": "/github.io/algorithm-visualization/static/js/runtime-main.84bfceaf.js",
-    "runtime-main.js.map": "/github.io/algorithm-visualization/static/js/runtime-main.84bfceaf.js.map",
-    "static/js/2.d30ff019.chunk.js": "/github.io/algorithm-visualization/static/js/2.d30ff019.chunk.js",
-    "static/js/2.d30ff019.chunk.js.map": "/github.io/algorithm-visualization/static/js/2.d30ff019.chunk.js.map",
-    "static/js/3.8c630308.chunk.js": "/github.io/algorithm-visualization/static/js/3.8c630308.chunk.js",
-    "static/js/3.8c630308.chunk.js.map": "/github.io/algorithm-visualization/static/js/3.8c630308.chunk.js.map",
-    "index.html": "/github.io/algorithm-visualization/index.html",
-    "static/css/main.3cd44b29.chunk.css.map": "/github.io/algorithm-visualization/static/css/main.3cd44b29.chunk.css.map",
-    "static/js/2.d30ff019.chunk.js.LICENSE.txt": "/github.io/algorithm-visualization/static/js/2.d30ff019.chunk.js.LICENSE.txt"
+    "main.css": "/algorithm-visualization/static/css/main.3cd44b29.chunk.css",
+    "main.js": "/algorithm-visualization/static/js/main.058cfd99.chunk.js",
+    "main.js.map": "/algorithm-visualization/static/js/main.058cfd99.chunk.js.map",
+    "runtime-main.js": "/algorithm-visualization/static/js/runtime-main.309ea226.js",
+    "runtime-main.js.map": "/algorithm-visualization/static/js/runtime-main.309ea226.js.map",
+    "static/js/2.d30ff019.chunk.js": "/algorithm-visualization/static/js/2.d30ff019.chunk.js",
+    "static/js/2.d30ff019.chunk.js.map": "/algorithm-visualization/static/js/2.d30ff019.chunk.js.map",
+    "static/js/3.8c630308.chunk.js": "/algorithm-visualization/static/js/3.8c630308.chunk.js",
+    "static/js/3.8c630308.chunk.js.map": "/algorithm-visualization/static/js/3.8c630308.chunk.js.map",
+    "index.html": "/algorithm-visualization/index.html",
+    "static/css/main.3cd44b29.chunk.css.map": "/algorithm-visualization/static/css/main.3cd44b29.chunk.css.map",
+    "static/js/2.d30ff019.chunk.js.LICENSE.txt": "/algorithm-visualization/static/js/2.d30ff019.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.84bfceaf.js",
+    "static/js/runtime-main.309ea226.js",
     "static/js/2.d30ff019.chunk.js",
     "static/css/main.3cd44b29.chunk.css",
     "static/js/main.058cfd99.chunk.js"
